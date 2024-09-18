@@ -69,3 +69,8 @@ The tutorial above shows how to detect fires in Portugal. Modify it to detect fi
 **Orchestration**
 
 - As we start to add more agents and microservices, how can the be described in such a way that an orchestrating agent can find and compose them? 
+
+**Team diagram**
+
+![image](https://github.com/user-attachments/assets/915b90bb-8705-49f2-863d-6bfe85896f99)
+
